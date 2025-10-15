@@ -1,1 +1,12 @@
+title: "Srđan Bijelić | Portfolio"
+description: "Projekti, iskustvo i kontakt informacije."
+theme: minima
+author: "Srđan Bijelić"
+email: "tvoja.email.adresa@gmail.com"
+github_username: srdjanbijelic
 
+# Opcionalno
+show_downloads: false
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
